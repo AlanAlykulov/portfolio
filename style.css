@@ -19,7 +19,6 @@ h1, h2 {
     padding: 20px;
 }
 
-/* Стили для header */
 header {
     background: linear-gradient(135deg, #4CAF50, #81C784);
     color: white;
@@ -39,7 +38,6 @@ header p {
     margin-top: 15px;
 }
 
-/* Анимация для заголовка */
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -51,7 +49,6 @@ header p {
     }
 }
 
-/* Стили для секции About */
 .about {
     background-color: #ffffff;
     padding: 40px 20px;
@@ -66,7 +63,6 @@ header p {
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
-/* Стили для секции Skills */
 .skills {
     background-color: #f9f9f9;
     padding: 40px 20px;
@@ -98,7 +94,6 @@ header p {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Стили для секции Contact */
 .contact {
     background-color: #f9f9f9;
     padding: 40px 20px;
@@ -119,7 +114,6 @@ header p {
     text-decoration: underline;
 }
 
-/* Стили для footer */
 footer {
     background-color: #333;
     color: white;
